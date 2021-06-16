@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duongvd2106
 - 👀 I’m interested in WEB, MOBILE DEVELOPMENT
 - 🌱 I’m currently learning PYTHON, RUBY
-- 💞️ I’m looking to collaborate on JAVA, .NET, OBJ C, PYTHON, HTML-CSS
+- 💞️ I’m looking to collaborate on JAVA, OBJ C, PYTHON, HTML-CSS
 - 📫 How to reach me: duongvd.2106@gmail.com
 
 <!---
